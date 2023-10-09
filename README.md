@@ -200,7 +200,7 @@ I have created a dashboard to Phonepe pulse Data visualize Github repository dat
       * The bar chart of State wise App open count in india
       * Top Register user count in Geo Visualization in india
 
-
+### c) Visualization
 #### To Ploting code model
 -using plotly express
 ```python
