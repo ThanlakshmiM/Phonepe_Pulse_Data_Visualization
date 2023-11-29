@@ -81,7 +81,7 @@ aggr_trans.to_csv('aggregated_transaction.csv',index=False)
 ```python
 #postgresql connect
 import psycopg2
-cont=psycopg2.connect(host='localhost',user='postgres',password='basith',port=5432,database='basith')
+cont=psycopg2.connect(host='localhost',user='postgres',password='psl psw',port=5432,database='database name')
 csr=cont.cursor()
 ```
 ```python
